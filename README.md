@@ -1,6 +1,6 @@
 # rotation_champs
 
-A new Flutter project.
+Es un proyecto que usa algunos datos estaticos del videojuego League of legends para ofrecer información de los campeones al mismo tiempo que se juegan con diferentes widgets de flutter
 
 ## Getting Started
 
